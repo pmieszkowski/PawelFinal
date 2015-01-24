@@ -9,6 +9,10 @@ import android.widget.ListView;
 import android.widget.Toast;
 
 
+import com.example.student7.pawelfinal.adapter.RecipeListAdapter;
+import com.example.student7.pawelfinal.data.Recipe;
+import com.example.student7.pawelfinal.data.RecipeList;
+
 import org.androidannotations.annotations.AfterViews;
 import org.androidannotations.annotations.Bean;
 import org.androidannotations.annotations.Click;

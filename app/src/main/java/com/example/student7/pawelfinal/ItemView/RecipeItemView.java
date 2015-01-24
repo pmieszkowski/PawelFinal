@@ -6,6 +6,9 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 
+import com.example.student7.pawelfinal.R;
+import com.example.student7.pawelfinal.data.Recipe;
+
 import org.androidannotations.annotations.EViewGroup;
 import org.androidannotations.annotations.ViewById;
 

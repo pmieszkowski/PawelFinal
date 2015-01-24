@@ -3,6 +3,8 @@ package com.example.student7.pawelfinal;
 import android.support.v7.app.ActionBarActivity;
 import android.widget.TextView;
 
+import com.example.student7.pawelfinal.data.Recipe;
+
 import org.androidannotations.annotations.AfterViews;
 import org.androidannotations.annotations.EActivity;
 import org.androidannotations.annotations.Extra;

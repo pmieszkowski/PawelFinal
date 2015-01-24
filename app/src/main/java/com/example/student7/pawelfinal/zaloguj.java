@@ -9,6 +9,9 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 
+import com.example.student7.pawelfinal.data.EmailAndPassword;
+import com.example.student7.pawelfinal.data.User;
+
 import org.androidannotations.annotations.AfterViews;
 import org.androidannotations.annotations.Bean;
 import org.androidannotations.annotations.Click;

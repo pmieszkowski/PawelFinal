@@ -3,6 +3,8 @@ package com.example.student7.pawelfinal;
 import android.app.ListActivity;
 
 
+import com.example.student7.pawelfinal.data.RecipeList;
+
 import org.androidannotations.annotations.Background;
 import org.androidannotations.annotations.EBean;
 import org.androidannotations.annotations.RootContext;

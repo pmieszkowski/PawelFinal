@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import com.example.student7.joanna.data.User;
+import com.example.student7.pawelfinal.data.User;
 
 import org.androidannotations.annotations.Click;
 import org.androidannotations.annotations.EActivity;

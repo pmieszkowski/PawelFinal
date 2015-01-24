@@ -1,6 +1,11 @@
 package com.example.student7.pawelfinal;
 
 
+import com.example.student7.pawelfinal.data.EmailAndPassword;
+import com.example.student7.pawelfinal.data.Recipe;
+import com.example.student7.pawelfinal.data.RecipeList;
+import com.example.student7.pawelfinal.data.User;
+
 import org.androidannotations.annotations.rest.Get;
 import org.androidannotations.annotations.rest.Post;
 

@@ -2,6 +2,9 @@ package com.example.student7.pawelfinal;
 
 import android.widget.Toast;
 
+import com.example.student7.pawelfinal.data.EmailAndPassword;
+import com.example.student7.pawelfinal.data.User;
+
 import org.androidannotations.annotations.Background;
 import org.androidannotations.annotations.EBean;
 import org.androidannotations.annotations.RootContext;

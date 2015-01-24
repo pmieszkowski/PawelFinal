@@ -7,6 +7,7 @@ import android.widget.BaseAdapter;
 
 
 import com.example.student7.pawelfinal.ItemView.RecipeItemView;
+import com.example.student7.pawelfinal.ItemView.RecipeItemView_;
 import com.example.student7.pawelfinal.data.Recipe;
 import com.example.student7.pawelfinal.data.RecipeList;
 
